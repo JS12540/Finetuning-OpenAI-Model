@@ -1,0 +1,3 @@
+openai
+jsonlines
+python-dotenv
